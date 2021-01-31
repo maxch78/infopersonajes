@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Russo One', sans-serif;
+    background-image: url('../img/cropped-RM_page-header_background1-3.png');
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+    height: 100vh;
+    color: yellow;
+}
+
+#columna_personajes{
+   
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+
+.resultados_personajes img {
+    border-radius: 50%;
+    padding: 10px;
+    width: 250px;
+    
+}
+
+ul {
+    background-color: rgba(241, 85, 13, 0.322);
+    vertical-align: middle;
+ 
+}
+
+ul li span {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
+.logo_footer {
+    width: 300px;
+    height: 180px;
+    vertical-align: middle;
+    
+}
